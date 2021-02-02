@@ -1,6 +1,7 @@
-### Rodrigo Oliveira
-[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/rodrigo-oliveira-dev/)](https://www.linkedin.com/in/rodrigo-oliveira-dev/) 
+
 <!--
+### Rodrigo Oliveira
+
 **RodrigoOliveira552/RodrigoOliveira552** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🎓 Studying Computer Science...
@@ -9,3 +10,4 @@
 - 🌍 Born in Brazil city of Rio de Janeiro...
 - ☕ Coding in Java...
 -->
+[![Linkedin Badge](https://img.shields.io/badge/style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/rodrigo-oliveira-dev/)](https://www.linkedin.com/in/rodrigo-oliveira-dev/) 
